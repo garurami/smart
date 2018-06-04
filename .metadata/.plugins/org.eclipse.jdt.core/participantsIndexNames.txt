@@ -1,3 +1,5 @@
 INDEX VERSION 1.130
 E:\Lecture\SpringFramework\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3732614589.index
 \SmartHome\src\main\java
+E:\Lecture\SpringFramework\project\smart\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3732614589.index
+\SmartHome\src\main\java
