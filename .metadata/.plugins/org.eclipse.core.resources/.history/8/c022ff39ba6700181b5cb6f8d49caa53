@@ -12,5 +12,11 @@
 <P>  The time on the server is ${serverTime}. </P>
 <div>가나다라마바사아자차캍차하</div>
 <h3>동해물과 백두산이 마르고 닳도록</h3>
+<<<<<<< HEAD
+<h3>branch</h3>
+<h3>branch</h3>
+=======
+<b>branch</b>
+>>>>>>> master
 </body>
 </html>
